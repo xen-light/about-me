@@ -10,7 +10,7 @@
 
 - personal website: [https://xenlight.xyz](https://xenlight.xyz)
 
-- reach me out: **xeniight@outlook.com**
+- reach me out: **contact@xenlight.xyz**
 
 - fun fact: **i’m still under 18.**
 
