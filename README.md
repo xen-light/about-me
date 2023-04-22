@@ -8,7 +8,7 @@
 
 - i’m trying my best for **python.**
 
-- personal website: [https://xenlight.tk](https://xenlight.tk)
+- personal website: [https://xenlight.xyz](https://xenlight.xyz)
 
 - reach me out: **xeniight@outlook.com**
 
