@@ -4,15 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/xeniight" target="blank"><img src="https://img.shields.io/twitter/follow/xeniight?logo=twitter&style=for-the-badge" alt="xeniight" /></a> </p>
 
-- i’m workin’ on a malware rn. [no name for now.](closed source.)
-
-- i’m trying my best for **python.**
+- i’m trying my best for **C++.**
 
 - personal website: [https://xenlight.xyz](https://xenlight.xyz)
 
 - reach me out: **contact@xenlight.xyz**
 
-- fun fact: **i’m still under 18.**
+- fun fact: **i like strawberries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
